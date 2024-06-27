@@ -1,1 +1,3 @@
-# online_phase_estimator_1d
+# 1D Online Phase Estimator
+
+This algorithm estimates online the phase of a scalar signal.
